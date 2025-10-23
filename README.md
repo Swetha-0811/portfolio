@@ -1,4 +1,4 @@
-# portfolio
+
 
 💻 Swetha Elangovan — Full Stack Developer | Building Scalable Web Applications
 
@@ -45,8 +45,7 @@ Google Fonts (Poppins)
 
 🚀 Live Demo
 
-🌐 View Portfolio: https://swetha-0811.github.io/
- (Replace with your actual GitHub Pages link if different)
+🌐 View Portfolio: https://swetha-0811.github.io/portfolio/
 
 🧑‍💻 About Me
 

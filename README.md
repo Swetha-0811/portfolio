@@ -1,13 +1,14 @@
-💻 Swetha Elangovan — Full Stack Developer | Building Scalable Web Applications
+💻 Personal Portfolio – Swetha Elangovan | Full Stack Developer
 
-Welcome to my personal portfolio website — a showcase of my skills, projects, and passion for developing efficient, user-friendly, and scalable web applications.
+A professional portfolio website that showcases my skills, projects, certifications, and journey as a Full Stack Developer.
+Built with modern web technologies and a responsive design to deliver a clean, elegant, and interactive user experience.
 
 🧭 About the Project
 
-This project is my portfolio website, designed and developed to represent my journey as a Full Stack Developer.
-It highlights my technical skills, creative design abilities, and hands-on project experience.
+This project serves as my digital portfolio, designed to highlight my expertise in frontend and backend development.
+It demonstrates my ability to create visually engaging, efficient, and scalable web applications that combine creativity with technical depth.
 
-The website serves as a professional hub where visitors can explore my work, view my certifications, and get in touch for collaborations or opportunities.
+Visitors can explore my projects, achievements, and easily connect with me for collaborations or opportunities.
 
 ⚙️ Tech Stack
 
@@ -15,7 +16,7 @@ Frontend:
 
 🧱 HTML5
 
-🎨 CSS3 (Responsive Layout, Animations)
+🎨 CSS3 (Responsive Layouts, Animations)
 
 ⚡ JavaScript (Typing Effect, Interactivity)
 
@@ -33,38 +34,48 @@ Other Tools & Platforms:
 
 🌟 Features
 
-✅ Clean, responsive, and mobile-friendly design
+✅ Clean, responsive, and mobile-friendly interface
 ✅ Interactive typing animation introducing my profile
-✅ Downloadable CV with quick access button
-✅ Projects section with modern card-based layout
-✅ Certifications and achievements showcase
-✅ Contact section with direct social media links
-✅ Minimal and professional UI/UX
+✅ Downloadable CV for quick access
+✅ Project section with modern card-based layout
+✅ Certifications & Achievements showcase
+✅ Contact section with integrated social links
+✅ Simple, minimal, and professional UI/UX design
 
 🚀 Live Demo
 
 🌐 View Portfolio: Click Here
 
+Click the link above to explore the live portfolio website.
+
 🧑‍💻 About Me
 
 I’m Swetha Elangovan, an enthusiastic Full Stack Developer and MCA student, passionate about building scalable, secure, and visually engaging web applications.
 
-I specialize in transforming ideas into dynamic, interactive solutions using modern web technologies.
-My focus is on crafting user-centered designs and developing reliable backend systems that ensure performance and scalability.
-
-💡 I’m eager to collaborate, learn continuously, and grow in the tech industry while contributing to impactful projects.
+I focus on transforming ideas into dynamic, user-centered solutions through clean code and smart design.
+My goal is to continue growing in the tech industry and contribute to impactful, AI-driven digital products.
 
 📚 Highlights
 
-🎓 MCA (Master of Computer Applications) student
+🎓 MCA (Master of Computer Applications) Student
 💻 Skilled in both Frontend & Backend Development
-🚀 Experienced in building responsive web applications
-🏆 Certified in Python, Data Analysis, and NPTEL course on Privacy & Security in Social Media
+🚀 Experienced in Responsive Web Design
+🏆 Certified in Python, Data Analysis, and NPTEL: Privacy & Security in Social Media
 
-📞 Contact
+🧠 How It Works
 
-📧 Email: swethaelangovan08@gmail.com
+1️⃣ Built with clean HTML, CSS, and JavaScript structure
+2️⃣ Interactive typing animation introduces developer info dynamically
+3️⃣ Hosted on GitHub Pages / Vercel for live demo access
+
+🧑‍💻 Author
+
+Swetha Elangovan – Full Stack Developer passionate about crafting responsive and dynamic web experiences.
+
+🌐 Connect
+
+🌐 GitHub: Swetha-0811
 
 💼 LinkedIn: linkedin.com/in/swetha-elangovan-110338280
 
-🖥️ GitHub: github.com/Swetha-0811
+📧 Email: swethaelangovan08@gmail.com

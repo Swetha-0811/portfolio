@@ -1,5 +1,3 @@
-
-
 💻 Swetha Elangovan — Full Stack Developer | Building Scalable Web Applications
 
 Welcome to my personal portfolio website — a showcase of my skills, projects, and passion for developing efficient, user-friendly, and scalable web applications.
@@ -15,23 +13,23 @@ The website serves as a professional hub where visitors can explore my work, vie
 
 Frontend:
 
-HTML5
+🧱 HTML5
 
-CSS3 (Responsive Layout, Animations)
+🎨 CSS3 (Responsive Layout, Animations)
 
-JavaScript (Typing Effect, Interactivity)
+⚡ JavaScript (Typing Effect, Interactivity)
 
-Bootstrap
+🪄 Bootstrap
 
 Other Tools & Platforms:
 
-Git & GitHub
+🧭 Git & GitHub
 
-Render / Vercel (Deployment)
+🚀 Render / Vercel (Deployment)
 
-Font Awesome
+💎 Font Awesome
 
-Google Fonts (Poppins)
+✨ Google Fonts (Poppins)
 
 🌟 Features
 
@@ -45,24 +43,22 @@ Google Fonts (Poppins)
 
 🚀 Live Demo
 
-🌐 View Portfolio: https://swetha-0811.github.io/portfolio/
+🌐 View Portfolio: Click Here
 
 🧑‍💻 About Me
 
 I’m Swetha Elangovan, an enthusiastic Full Stack Developer and MCA student, passionate about building scalable, secure, and visually engaging web applications.
 
-I specialize in transforming ideas into dynamic, interactive solutions using modern web technologies. My focus is on crafting user-centered designs and developing reliable backend systems that ensure performance and scalability.
+I specialize in transforming ideas into dynamic, interactive solutions using modern web technologies.
+My focus is on crafting user-centered designs and developing reliable backend systems that ensure performance and scalability.
 
 💡 I’m eager to collaborate, learn continuously, and grow in the tech industry while contributing to impactful projects.
 
 📚 Highlights
 
 🎓 MCA (Master of Computer Applications) student
-
 💻 Skilled in both Frontend & Backend Development
-
 🚀 Experienced in building responsive web applications
-
 🏆 Certified in Python, Data Analysis, and NPTEL course on Privacy & Security in Social Media
 
 📞 Contact
